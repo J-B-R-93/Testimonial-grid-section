@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-size: 1.3rem;
+}
+blockquote {
+  line-height: 1.5;
+}
+.container {
+  padding: 9.6rem;
+}
+.testimonial-author {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+
+  margin-bottom: 1.5rem;
+}
+.testimonials {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 3rem;
+}
+.testimonial1 {
+  grid-column: 1 / 3;
+}
+.testimonial3 {
+  grid-column: 4/5;
+  grid-row: 1/-1;
+}
+.testimonial5 {
+  grid-column: 2 / 4;
+}
+.testimonial1 {
+  position: relative;
+}
+.quotations {
+  height: 13rem;
+  width: 13rem;
+
+  position: absolute;
+  right: 20%;
+  top: 0;
+  z-index: -1;
+}
+.testimonial-box {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 3rem;
+}
+.profile-pic {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+.name {
+  font-weight: 600;
+}
+.text {
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 2.2rem;
+}
+
+/* Moderate violet: hsl(263, 55%, 52%)
+Very dark grayish blue: hsl(217, 19%, 35%)
+Very dark blackish blue: hsl(219, 29%, 14%)
+White: hsl(0, 0%, 100%) */
+
+/* Footer Section */
+.attribution {
+  margin-top: 30px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
