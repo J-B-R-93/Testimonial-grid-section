@@ -9,14 +9,15 @@ The project aim is the practice the use of a layout grid, with a responsive desi
 -HTML structure
 
 - Basic CSS properties
-  -universal selector
-  -background-color
-  -border radius
-  -absolute positioning
-  -grid layout diplay (with 4 columns and 2 rows equally spaced columns)
-  -rows and columns positioning
-  -flex display
-  -media queries (responsive design for 3 main screen sizes):
+
+  - universal selector
+  - background-color
+  - border radius
+  - absolute positioning
+  - grid layout diplay (with 4 columns and 2 rows equally spaced columns)
+  - rows and columns positioning
+  - flex display
+  - media queries (responsive design for 3 main screen sizes):
 
   - max width: 1400px+
   - max width: 1200px
