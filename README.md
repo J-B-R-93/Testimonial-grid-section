@@ -6,7 +6,7 @@ The project aim is to practice the use of a layout grid, with a responsive desig
 
 ## Technologies Used
 
--HTML structure
+-  HTML structure
 
 - Basic CSS properties
 
