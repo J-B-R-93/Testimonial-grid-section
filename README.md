@@ -18,11 +18,10 @@ The project aim is the practice the use of a layout grid, with a responsive desi
   - rows and columns positioning
   - flex display
   - media queries (responsive design for 3 main screen sizes):
-
-  - max width: 1400px+
-  - max width: 1200px
-  - max width: 1008px
-  - max width: 880px
+    - max width: 1400px+
+    - max width: 1200px
+    - max width: 1008px
+    - max width: 880px
 
 - Google Fonts link
 
