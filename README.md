@@ -17,7 +17,7 @@ The project aim is to practice the use of a layout grid, with a responsive desig
   - grid layout diplay (with 4 columns and 2 rows equally spaced columns)
   - rows and columns positioning
   - flex display
-  - media queries (responsive design for 3 main screen sizes):
+  - media queries (responsive design for 4 main screen sizes):
     - max width: 1400px+
     - max width: 1200px
     - max width: 1008px
