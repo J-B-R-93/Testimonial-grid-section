@@ -34,5 +34,3 @@ The project aim is to practice the use of a layout grid, with a responsive desig
 ## Screenshot
 
 <img src="images/Screenshot.JPG" alt="Screenshot of thetestimonial grid design" />
-
-##
